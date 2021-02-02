@@ -1,0 +1,23 @@
+body{
+    height: 75vh;
+
+    background-image: url("/img/fundo.jpg");
+    background-size: cover;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(11, 116, 81);
+    font-size: 40px;
+    
+}
+
+.info{
+    margin: 0;
+}
+
+#snake{
+    margin-top: 20px;
+}
